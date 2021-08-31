@@ -1,2 +1,2 @@
-# Java_Exercicio2
+# Exercício desenvolvido na linagem Java
 Aprendendo associação de classes.
